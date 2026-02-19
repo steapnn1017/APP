@@ -61,3 +61,7 @@ web-build/
 *.tar.gz
 .vercel
 .chainlit
+-e 
+# Environment files
+*.env
+*.env.*
